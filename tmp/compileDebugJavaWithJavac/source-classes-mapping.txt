@@ -1,0 +1,19 @@
+com/example/tic_tac_toe/FirstFragment.java
+ com.example.tic_tac_toe.FirstFragment
+ com.example.tic_tac_toe.FirstFragment$1
+com/example/tic_tac_toe/databinding/ActivityMainBinding.java
+ com.example.tic_tac_toe.databinding.ActivityMainBinding
+com/example/tic_tac_toe/BuildConfig.java
+ com.example.tic_tac_toe.BuildConfig
+com/example/tic_tac_toe/SecondFragment.java
+ com.example.tic_tac_toe.SecondFragment
+ com.example.tic_tac_toe.SecondFragment$1
+com/example/tic_tac_toe/databinding/FragmentSecondBinding.java
+ com.example.tic_tac_toe.databinding.FragmentSecondBinding
+com/example/tic_tac_toe/databinding/ContentMainBinding.java
+ com.example.tic_tac_toe.databinding.ContentMainBinding
+com/example/tic_tac_toe/databinding/FragmentFirstBinding.java
+ com.example.tic_tac_toe.databinding.FragmentFirstBinding
+com/example/tic_tac_toe/MainActivity.java
+ com.example.tic_tac_toe.MainActivity
+ com.example.tic_tac_toe.MainActivity$1
